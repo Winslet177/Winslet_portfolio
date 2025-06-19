@@ -1,7 +1,3 @@
-# Winslet_portfolio
-In this project, am building a portfolio website to showcase my skills, experience and potentials to users as a developer
-
-
 
 <a name="readme-top"></a>
 
@@ -9,7 +5,7 @@ In this project, am building a portfolio website to showcase my skills, experien
 
   <br/>
 
-  <h1><b>Hello Codegisoft Academy</b></h1>
+  <h1><b>PORTFOLIO</b></h1>
 
 </div>
 
@@ -32,9 +28,9 @@ In this project, am building a portfolio website to showcase my skills, experien
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello Codegisoft Academy <a name="about-project"></a>
+# 📖 Portfolio: Home section <a name="about-project"></a>
 
-This is the first technical Codegisoft Academy project it tests more on Git, GitHub, GitHub Workflow and Linters.
+This is the first portfolio Codegisoft Academy project it tests more on mobile responsive, adding more html contents, adding more css content and Linters.
 
 *[Hello-Codegisoft Academy]* is a HTML CSS project
 
@@ -48,9 +44,9 @@ This is the first technical Codegisoft Academy project it tests more on Git, Git
 
 ### Key Features <a name="key-features"></a>
 
-- *Understanding Git, GitHub and GitHub Workflow*
-- *Configuring Linters*
-- *Creating pull requests and merging*
+- *Understanding responsiveness and how to apply it on web pages*
+- *having a net idea on how to style a responsive page*
+- *getting acquainted with html and css*
 
 A demo link will be uploaded subsequently.
 
@@ -71,8 +67,7 @@ Clone this repository to your desired folder:
 
 sh
   cd my-folder
-  git clone https://github.com/ngalamac/Hello-Codegisoft Academy.git
-
+  git clone
 
 ### Install
 
@@ -131,4 +126,4 @@ I will like to thank Codegisoft Academy and all the students i've collaborated w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
