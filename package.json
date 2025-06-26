@@ -1,0 +1,27 @@
+{
+  "name": "winslet_portfolio",
+  "version": "1.0.0",
+  "description": "In this project, am building a portfolio website to showcase my skills, experience and potentials to users as a developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winslet177/Winslet_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winslet177/Winslet_portfolio/issues"
+  },
+  "homepage": "https://github.com/Winslet177/Winslet_portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.13",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
